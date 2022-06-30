@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.d4d1696e.css",
+    "main.js": "/react-portfolio/static/js/main.8ac2af0b.js",
+    "static/media/electrivia-ss.png": "/react-portfolio/static/media/electrivia-ss.a6d29ce5e2aad0242786.png",
+    "static/media/run-buddy-ss.png": "/react-portfolio/static/media/run-buddy-ss.eb2af0e1e22158a35cf2.png",
+    "static/media/portfolio-website.png": "/react-portfolio/static/media/portfolio-website.a75a476e6c16cf290375.png",
+    "static/media/ecom-ss.png": "/react-portfolio/static/media/ecom-ss.a4ff62e647df4aa091dc.png",
+    "static/media/social-api.png": "/react-portfolio/static/media/social-api.52f3d3fdc75eac98b88a.png",
+    "static/media/fit dish.png": "/react-portfolio/static/media/fit dish.b52474cf08f95544329b.png",
+    "static/media/awake-ss.png": "/react-portfolio/static/media/awake-ss.c6e425ce994bc1a8eeca.png",
+    "static/media/coding-quiz-ss.png": "/react-portfolio/static/media/coding-quiz-ss.e97a8ca351d0e3aa93ec.png",
+    "static/media/reverse-mortgage-calculator.png": "/react-portfolio/static/media/reverse-mortgage-calculator.6e2979c57bac34852f98.png",
+    "static/media/undraw_developer_activity_re_39tg.svg": "/react-portfolio/static/media/undraw_developer_activity_re_39tg.8ff3d657d12e571ed3db653af6877b30.svg",
+    "static/media/undraw_fireworks_re_2xi7.svg": "/react-portfolio/static/media/undraw_fireworks_re_2xi7.894628fa70f522323b6c1176d9e48c5f.svg",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.d4d1696e.css.map": "/react-portfolio/static/css/main.d4d1696e.css.map",
+    "main.8ac2af0b.js.map": "/react-portfolio/static/js/main.8ac2af0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4d1696e.css",
+    "static/js/main.8ac2af0b.js"
+  ]
+}
